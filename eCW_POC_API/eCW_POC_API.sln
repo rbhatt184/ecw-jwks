@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCW_POC_API", "eCW_POC_API.csproj", "{45232B32-7260-4140-97F3-16A1D7D05562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45232B32-7260-4140-97F3-16A1D7D05562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45232B32-7260-4140-97F3-16A1D7D05562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45232B32-7260-4140-97F3-16A1D7D05562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45232B32-7260-4140-97F3-16A1D7D05562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5924AB87-8F30-43C9-A8A3-44C086A83AA1}
+	EndGlobalSection
+EndGlobal
